@@ -1,7 +1,7 @@
 
 # 🍽️ MealsApp - Recipe Book 
 
-**MealsApp** is a beautifully structured **recipe browsing application** built using **React Native (Expo)**. It allows users to explore different meals by categories, view detailed recipes, and mark meals as favorites. With a combination of **Drawer & Stack Navigation**, along with **Redux Toolkit** and **Context API**, it demonstrates modern state management and dynamic UI rendering in React Native. 📖✨
+**MealsApp** is a beautifully structured **recipe browsing application** built using **React Native (Expo)**. It allows users to explore different meals by categories, view detailed recipes, and mark meals as favorites. With a combination of **Drawer & Stack Navigation**, along with **Context API**, it demonstrates modern state management and dynamic UI rendering in React Native. 📖✨
 
 ---
 
