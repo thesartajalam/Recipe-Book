@@ -1,11 +1,5 @@
-# Recipe-Book Meals App
 
-Sure! Here's your `README.md` for the **MealsApp (Recipe Book)** project — written in the **exact same format** and structure as your **HangOut Hub** example.
-
----
-
-
-# 🍽️ MealsApp - Recipe Book with Favorites Feature
+# 🍽️ MealsApp - Recipe Book 
 
 **MealsApp** is a beautifully structured **recipe browsing application** built using **React Native (Expo)**. It allows users to explore different meals by categories, view detailed recipes, and mark meals as favorites. With a combination of **Drawer & Stack Navigation**, along with **Redux Toolkit** and **Context API**, it demonstrates modern state management and dynamic UI rendering in React Native. 📖✨
 
